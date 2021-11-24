@@ -1,0 +1,35 @@
+{
+	"$schema": "https://json.schemastore.org/block.json",
+	"apiVersion": 2,
+	"name": "create-block/unsplash-swiper",
+	"version": "1.0.0",
+	"title": "Unsplash Swiper",
+	"category": "widgets",
+	"icon": "images-alt",
+	"description": "Image carousel block that pulls photos from Unsplash.com and The Cat API.",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "unsplash-slider",
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css",
+	"attributes": {
+		"query": {
+			"type": "string",
+			"default": ""
+		},
+		"imageCount": {
+			"type": "integer",
+			"default": 5
+		},
+		"catMode": {
+			"type": "boolean",
+			"default": false
+		},
+		"breed": {
+			"type": "string",
+			"default": ""
+		}
+	}
+}

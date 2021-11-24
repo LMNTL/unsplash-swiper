@@ -1,0 +1,274 @@
+[
+    {
+        "label": "None",
+        "value": ""
+    },
+    {
+        "label": "Abyssinian",
+        "value": "abys"
+    },
+    {
+        "label": "Aegean",
+        "value": "aege"
+    },
+    {
+        "label": "American Bobtail",
+        "value": "abob"
+    },
+    {
+        "label": "American Curl",
+        "value": "acur"
+    },
+    {
+        "label": "American Shorthair",
+        "value": "asho"
+    },
+    {
+        "label": "American Wirehair",
+        "value": "awir"
+    },
+    {
+        "label": "Arabian Mau",
+        "value": "amau"
+    },
+    {
+        "label": "Australian Mist",
+        "value": "amis"
+    },
+    {
+        "label": "Balinese",
+        "value": "bali"
+    },
+    {
+        "label": "Bambino",
+        "value": "bamb"
+    },
+    {
+        "label": "Bengal",
+        "value": "beng"
+    },
+    {
+        "label": "Birman",
+        "value": "birm"
+    },
+    {
+        "label": "Bombay",
+        "value": "bomb"
+    },
+    {
+        "label": "British Longhair",
+        "value": "bslo"
+    },
+    {
+        "label": "British Shorthair",
+        "value": "bsho"
+    },
+    {
+        "label": "Burmese",
+        "value": "bure"
+    },
+    {
+        "label": "Burmilla",
+        "value": "buri"
+    },
+    {
+        "label": "California Spangled",
+        "value": "cspa"
+    },
+    {
+        "label": "Chantilly-Tiffany",
+        "value": "ctif"
+    },
+    {
+        "label": "Chartreux",
+        "value": "char"
+    },
+    {
+        "label": "Chausie",
+        "value": "chau"
+    },
+    {
+        "label": "Cheetoh",
+        "value": "chee"
+    },
+    {
+        "label": "Colorpoint Shorthair",
+        "value": "csho"
+    },
+    {
+        "label": "Cornish Rex",
+        "value": "crex"
+    },
+    {
+        "label": "Cymric",
+        "value": "cymr"
+    },
+    {
+        "label": "Cyprus",
+        "value": "cypr"
+    },
+    {
+        "label": "Devon Rex",
+        "value": "drex"
+    },
+    {
+        "label": "Donskoy",
+        "value": "dons"
+    },
+    {
+        "label": "Dragon Li",
+        "value": "lihu"
+    },
+    {
+        "label": "Egyptian Mau",
+        "value": "emau"
+    },
+    {
+        "label": "European Burmese",
+        "value": "ebur"
+    },
+    {
+        "label": "Exotic Shorthair",
+        "value": "esho"
+    },
+    {
+        "label": "Havana Brown",
+        "value": "hbro"
+    },
+    {
+        "label": "Himalayan",
+        "value": "hima"
+    },
+    {
+        "label": "Japanese Bobtail",
+        "value": "jbob"
+    },
+    {
+        "label": "Javanese",
+        "value": "java"
+    },
+    {
+        "label": "Khao Manee",
+        "value": "khao"
+    },
+    {
+        "label": "Korat",
+        "value": "kora"
+    },
+    {
+        "label": "Kurilian",
+        "value": "kuri"
+    },
+    {
+        "label": "LaPerm",
+        "value": "lape"
+    },
+    {
+        "label": "Maine Coon",
+        "value": "mcoo"
+    },
+    {
+        "label": "Malayan",
+        "value": "mala"
+    },
+    {
+        "label": "Manx",
+        "value": "manx"
+    },
+    {
+        "label": "Munchkin",
+        "value": "munc"
+    },
+    {
+        "label": "Nebelung",
+        "value": "nebe"
+    },
+    {
+        "label": "Norwegian Forest Cat",
+        "value": "norw"
+    },
+    {
+        "label": "Ocicat",
+        "value": "ocic"
+    },
+    {
+        "label": "Oriental",
+        "value": "orie"
+    },
+    {
+        "label": "Persian",
+        "value": "pers"
+    },
+    {
+        "label": "Pixie-bob",
+        "value": "pixi"
+    },
+    {
+        "label": "Ragamuffin",
+        "value": "raga"
+    },
+    {
+        "label": "Ragdoll",
+        "value": "ragd"
+    },
+    {
+        "label": "Russian Blue",
+        "value": "rblu"
+    },
+    {
+        "label": "Savannah",
+        "value": "sava"
+    },
+    {
+        "label": "Scottish Fold",
+        "value": "sfol"
+    },
+    {
+        "label": "Selkirk Rex",
+        "value": "srex"
+    },
+    {
+        "label": "Siamese",
+        "value": "siam"
+    },
+    {
+        "label": "Siberian",
+        "value": "sibe"
+    },
+    {
+        "label": "Singapura",
+        "value": "sing"
+    },
+    {
+        "label": "Snowshoe",
+        "value": "snow"
+    },
+    {
+        "label": "Somali",
+        "value": "soma"
+    },
+    {
+        "label": "Sphynx",
+        "value": "sphy"
+    },
+    {
+        "label": "Tonkinese",
+        "value": "tonk"
+    },
+    {
+        "label": "Toyger",
+        "value": "toyg"
+    },
+    {
+        "label": "Turkish Angora",
+        "value": "tang"
+    },
+    {
+        "label": "Turkish Van",
+        "value": "tvan"
+    },
+    {
+        "label": "York Chocolate",
+        "value": "ycho"
+    }
+]
