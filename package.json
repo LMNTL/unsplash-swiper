@@ -1,7 +1,7 @@
 {
-	"name": "plugin-test",
-	"version": "0.1.0",
-	"description": "Code sample for GiveWP - Unsplash Slider",
+	"name": "unsplash-slider",
+	"version": "1.0.0",
+	"description": "Image carousel block that pulls photos from Unsplash.com and The Cat API.",
 	"author": "Jessica Thomas",
 	"license": "GPL-2.0-or-later",
 	"main": "build/index.js",
@@ -19,6 +19,7 @@
 		"swiper": "^7.3.0"
 	},
 	"devDependencies": {
-		"@wordpress/scripts": "^19.2.2"
+		"@wordpress/scripts": "^19.2.2",
+		"wp-scripts": "^0.0.1-security"
 	}
 }
